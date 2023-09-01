@@ -1,1 +1,1 @@
-alert('Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim.');
+document.querySelector('.tecla_pom');
